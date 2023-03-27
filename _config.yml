@@ -20,6 +20,10 @@ github_username: "zdrawia"
 #########################################################################################
 theme: "minima"
 
+minima:
+  skin: dark
+  date_format: "%b %-d, %Y"
+
 rss: rss
 
 kramdown:
